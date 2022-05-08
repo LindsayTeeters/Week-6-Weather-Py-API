@@ -9,6 +9,6 @@ I set the size of the data retreival for cities to 2,000. This successfully gene
 
 
 Below are links to the requested coding.
-*City Data
-*Vacation Search
-*Vaction Itinerary
+* [City Data](https://github.com/LindsayTeeters/Week-6-Weather-Py-API/blob/main/WeatherPy_Database.ipynb)
+* [Vacation Search](https://github.com/LindsayTeeters/Week-6-Weather-Py-API/blob/main/Vacation_Search.ipynb)
+* [Vaction Itinerary](https://github.com/LindsayTeeters/Week-6-Weather-Py-API/blob/main/Vacation_Itinerary.ipynb)
