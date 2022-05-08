@@ -5,7 +5,9 @@ Jack loves the PlanMyTrip app. We were asked to tweek the app a bit to upgrade i
 
 ## Results
 I set the size of the data retreival for cities to 2,000. This successfully generated 767 cities. A table was generated with the requested columns. The requested weather details were added to the last columns. 
-![DataTable]
+![DataTable]https://github.com/LindsayTeeters/Week-6-Weather-Py-API/blob/main/WeatherPy_Database.png?raw=true
+
+
 Below are links to the requested coding.
 *City Data
 *Vacation Search
